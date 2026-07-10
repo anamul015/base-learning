@@ -55,3 +55,4 @@ Every blockchain transaction has a unique transaction hash.
 Gas fees on Base are generally lower than Ethereum mainnet.
 Onchain identity is becoming increasingly important.
 Wallet activity creates a transparent onchain history.
+Users can interact with decentralized applications directly from compatible wallets.
