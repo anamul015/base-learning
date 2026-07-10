@@ -53,3 +53,4 @@ Base aims to make onchain experiences simple for everyone.
 The Base ecosystem continues to welcome new builders every week.
 Every blockchain transaction has a unique transaction hash.
 Gas fees on Base are generally lower than Ethereum mainnet.
+Onchain identity is becoming increasingly important.
