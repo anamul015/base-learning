@@ -58,3 +58,4 @@ Wallet activity creates a transparent onchain history.
 Users can interact with decentralized applications directly from compatible wallets.
 Signing a transaction does not reveal your private key.
 Blockchain explorers improve transparency for every transaction.
+Every wallet has a unique public address for receiving assets.
