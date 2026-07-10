@@ -75,3 +75,4 @@ Open discussions strengthen developer communities.
 Learning blockchain concepts takes consistent practice.
 Experimenting on testnets reduces deployment risks.
 Simple documentation benefits new contributors.
+Blockchain wallets enable users to control their own assets.
