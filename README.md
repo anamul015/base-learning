@@ -10,3 +10,4 @@ Coinbase developed Base.
 Continue exploring the Base ecosystem.
 Base offers lower transaction fees than Ethereum mainnet.
 Coinbase incubated the Base network.
+Base uses ETH as the native gas token.
