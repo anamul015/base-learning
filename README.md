@@ -5,3 +5,4 @@ Base helps reduce transaction fees.
 Base supports smart contracts.
 Base uses ETH for gas fees.
 Base has many DeFi applications.
+Base also supports NFT projects.
