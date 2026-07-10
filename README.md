@@ -9,3 +9,4 @@ Base also supports NFT projects.
 Coinbase developed Base.
 Continue exploring the Base ecosystem.
 Base offers lower transaction fees than Ethereum mainnet.
+Coinbase incubated the Base network.
