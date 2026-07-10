@@ -59,3 +59,4 @@ Users can interact with decentralized applications directly from compatible wall
 Signing a transaction does not reveal your private key.
 Blockchain explorers improve transparency for every transaction.
 Every wallet has a unique public address for receiving assets.
+Base applications continue to improve user experience.
