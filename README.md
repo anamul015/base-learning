@@ -33,3 +33,4 @@ Open-source development strengthens the ecosystem.
 Documentation helps new developers get started.
 Clear examples make blockchain easier to learn.
 Regular updates keep projects healthy.
+Community feedback improves products.
