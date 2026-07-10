@@ -39,3 +39,4 @@ Always review transactions before signing.
 Base continues to attract builders worldwide.
 Innovation grows through collaboration.
 Learning Web3 requires consistency and practice.
+Every contribution helps improve the project.
