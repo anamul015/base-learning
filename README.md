@@ -36,3 +36,4 @@ Regular updates keep projects healthy.
 Community feedback improves products.
 Testing before deployment reduces bugs.
 Always review transactions before signing.
+Base continues to attract builders worldwide.
