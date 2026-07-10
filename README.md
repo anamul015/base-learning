@@ -72,3 +72,4 @@ Testing features before release improves reliability.
 Every release should include clear documentation updates.
 User feedback helps prioritize improvements.
 Open discussions strengthen developer communities.
+Learning blockchain concepts takes consistent practice.
