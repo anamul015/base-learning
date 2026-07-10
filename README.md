@@ -15,3 +15,4 @@ USDC is widely used across the Base ecosystem.
 Base supports fast and secure transactions.
 Smart Wallet improves user experience.
 Basenames simplify wallet addresses.
+Base supports account abstraction features.
