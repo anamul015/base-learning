@@ -34,3 +34,4 @@ Documentation helps new developers get started.
 Clear examples make blockchain easier to learn.
 Regular updates keep projects healthy.
 Community feedback improves products.
+Testing before deployment reduces bugs.
