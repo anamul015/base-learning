@@ -7,3 +7,4 @@ Base uses ETH for gas fees.
 Base has many DeFi applications.
 Base also supports NFT projects.
 Coinbase developed Base.
+Continue exploring the Base ecosystem.
