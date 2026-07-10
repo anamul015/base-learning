@@ -78,3 +78,4 @@ Simple documentation benefits new contributors.
 Blockchain wallets enable users to control their own assets.
 Self-custody requires responsible security practices.
 Public blockchains provide transparent transaction records.
+Decentralization reduces dependence on single entities.
