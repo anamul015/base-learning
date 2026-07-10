@@ -44,3 +44,4 @@ This repository documents my Base learning progress.
 More educational content will be added soon.
 Thanks for visiting this repository.
 Base enables developers to build scalable on-chain applications.
+The Base ecosystem includes DeFi, AI, gaming, social, and consumer apps.
