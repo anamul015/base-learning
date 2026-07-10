@@ -42,3 +42,4 @@ Learning Web3 requires consistency and practice.
 Every contribution helps improve the project.
 This repository documents my Base learning progress.
 More educational content will be added soon.
+Thanks for visiting this repository.
