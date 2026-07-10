@@ -28,3 +28,4 @@ Gaming projects are expanding on Base.
 Base supports decentralized social applications.
 Stablecoins are commonly used for payments on Base.
 Wallet activity helps users build on-chain history.
+On-chain reputation may become increasingly valuable.
