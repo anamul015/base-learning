@@ -31,3 +31,4 @@ Wallet activity helps users build on-chain history.
 On-chain reputation may become increasingly valuable.
 Open-source development strengthens the ecosystem.
 Documentation helps new developers get started.
+Clear examples make blockchain easier to learn.
