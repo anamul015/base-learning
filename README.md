@@ -16,3 +16,4 @@ Base supports fast and secure transactions.
 Smart Wallet improves user experience.
 Basenames simplify wallet addresses.
 Base supports account abstraction features.
+Bridging assets to Base is simple.
