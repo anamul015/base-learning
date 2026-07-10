@@ -88,3 +88,4 @@ Secure coding practices reduce vulnerabilities.
 Add secure development notes
 Small documentation updates are valuable contributions.
 Blockchain education benefits from practical examples.
+Transparency builds trust within decentralized ecosystems.
