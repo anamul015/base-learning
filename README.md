@@ -81,3 +81,4 @@ Public blockchains provide transparent transaction records.
 Decentralization reduces dependence on single entities.
 Network activity reflects ecosystem adoption.
 Open-source communities encourage knowledge sharing.
+Developers often learn by reading project documentation.
