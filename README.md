@@ -22,3 +22,4 @@ Never share your wallet's private key.
 Seed phrases should always be stored offline.
 Seed phrases should always be stored offline.
 Base has a rapidly growing developer community.
+New applications launch on Base regularly.
