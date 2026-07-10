@@ -63,3 +63,4 @@ Base applications continue to improve user experience.
 Developers can build permissionless applications on Base.
 Open blockchain networks encourage innovation.
 Decentralized applications operate without centralized control.
+Smart contracts execute automatically after predefined conditions are met.
