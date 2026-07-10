@@ -30,3 +30,4 @@ Stablecoins are commonly used for payments on Base.
 Wallet activity helps users build on-chain history.
 On-chain reputation may become increasingly valuable.
 Open-source development strengthens the ecosystem.
+Documentation helps new developers get started.
