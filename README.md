@@ -12,3 +12,4 @@ Base offers lower transaction fees than Ethereum mainnet.
 Coinbase incubated the Base network.
 Base uses ETH as the native gas token.
 USDC is widely used across the Base ecosystem.
+Base supports fast and secure transactions.
