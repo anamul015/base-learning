@@ -26,3 +26,4 @@ New applications launch on Base regularly.
 NFTs can be minted on Base.
 Gaming projects are expanding on Base.
 Base supports decentralized social applications.
+Stablecoins are commonly used for payments on Base.
