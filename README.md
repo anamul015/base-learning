@@ -96,3 +96,4 @@ Version history helps track project evolution.
 Repository organization improves readability.
 Well-written documentation saves development time.
 Community participation strengthens open-source ecosystems.
+Learning resources should remain up to date.
