@@ -20,3 +20,4 @@ Bridging assets to Base is simple.
 Always verify token contracts before trading.
 Never share your wallet's private key.
 Seed phrases should always be stored offline.
+Seed phrases should always be stored offline.
