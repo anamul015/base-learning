@@ -87,3 +87,4 @@ Base developers can integrate familiar Ethereum libraries.
 Secure coding practices reduce vulnerabilities.
 Add secure development notes
 Small documentation updates are valuable contributions.
+Blockchain education benefits from practical examples.
