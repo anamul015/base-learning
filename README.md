@@ -80,3 +80,4 @@ Self-custody requires responsible security practices.
 Public blockchains provide transparent transaction records.
 Decentralization reduces dependence on single entities.
 Network activity reflects ecosystem adoption.
+Open-source communities encourage knowledge sharing.
