@@ -48,3 +48,4 @@ The Base ecosystem includes DeFi, AI, gaming, social, and consumer apps.
 Consistent on-chain activity helps users explore the full Base ecosystem.
 Base continues to grow through open-source contributions and community builders.
 Low transaction costs make Base accessible for everyday blockchain usage.
+Building, learning, and contributing are the best ways to understand the Base ecosystem.
