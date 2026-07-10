@@ -50,3 +50,4 @@ Base continues to grow through open-source contributions and community builders.
 Low transaction costs make Base accessible for everyday blockchain usage.
 Building, learning, and contributing are the best ways to understand the Base ecosystem.
 Base aims to make onchain experiences simple for everyone.
+The Base ecosystem continues to welcome new builders every week.
