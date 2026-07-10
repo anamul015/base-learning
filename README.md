@@ -74,3 +74,4 @@ User feedback helps prioritize improvements.
 Open discussions strengthen developer communities.
 Learning blockchain concepts takes consistent practice.
 Experimenting on testnets reduces deployment risks.
+Simple documentation benefits new contributors.
