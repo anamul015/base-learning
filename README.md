@@ -40,3 +40,4 @@ Base continues to attract builders worldwide.
 Innovation grows through collaboration.
 Learning Web3 requires consistency and practice.
 Every contribution helps improve the project.
+This repository documents my Base learning progress.
